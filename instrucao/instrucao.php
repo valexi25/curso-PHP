@@ -6,3 +6,4 @@ if(5 > 2 ){
     echo ("dentro do if");
 }
 
+?>
