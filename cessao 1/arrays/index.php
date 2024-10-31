@@ -11,5 +11,7 @@
     print_r($arr);
     echo "<br>";
     echo $arr[0];
+    echo "<br>";
+    echo "Nome e $arr[1] ";
 
 ?>
