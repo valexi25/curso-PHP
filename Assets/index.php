@@ -24,6 +24,7 @@
                         <li><a href="exercicio.php?dir=include&file=include_require">Include vs Require</a></li>
                         <li><a href="exercicio.php?dir=include&file=require_return">Include && Return</a></li>
                         <li><a href="exercicio.php?dir=include&file=include_once">Include Once</a></li>
+                        <li><a href="exercicio.php?dir=include&file=desafio">Desafio do modulo</a></li>
                     </ul>
                 </div>
                 <!-- <div class="modulo verde">
