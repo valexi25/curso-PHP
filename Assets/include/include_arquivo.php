@@ -1,8 +1,10 @@
-<div class='titulo'>Include</div>
+
 <?php
     echo 'Carregando: include_arquivo<br>';
+    $variavel = 'a variaval Esta definida';
 
-    $variavel = 'Estou definido';
-    function soma($a,$b){
-        return $a + $b;
-    }
+    if(!function_exists('soma')){
+        function soma($a,$b){
+          return $a + $b;
+        }
+    } 
