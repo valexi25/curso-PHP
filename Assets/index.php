@@ -20,6 +20,7 @@
                     <h3>Include</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=include&file=include">Include</a></li>
+                        <li><a href="exercicio.php?dir=include&file=include_function">Include Função </a></li>
                         <li><a href="exercicio.php?dir=include&file=include_retun">Include vs Require</a></li>
                     </ul>
                 </div>
